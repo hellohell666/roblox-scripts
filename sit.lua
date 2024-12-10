@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.Humanoid.Sit = math.deg(2)+(5*7-42-(3*38)+(math.deg(2/(4*2/4)-0.05*20+0.1*20/2)-2-(8)-(5*(5+4))))
